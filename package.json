@@ -1,0 +1,24 @@
+{
+  "name": "server-planner-service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gbengaPS/server-planner-service.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gbengaPS/server-planner-service/issues"
+  },
+  "homepage": "https://github.com/gbengaPS/server-planner-service#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^26.4.2"
+  }
+}
