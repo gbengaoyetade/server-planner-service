@@ -33,6 +33,12 @@ Run application
 $ docker run -p 8080:8080 -d <the unique image name above>
 ```
 
+## Endpoint
+
+| Endpoint             | HTTP Method | Description                                                       |
+| -------------------- | ----------- | ----------------------------------------------------------------- |
+| /api/server/capacity | POST        | Returns the number of virtual machines the server can accommodate |
+
 ## Running the tests
 
 This application uses Jest framework
