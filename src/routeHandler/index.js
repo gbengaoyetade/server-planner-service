@@ -19,4 +19,4 @@ exports.computeServerCapacity = (req, res) => {
   });
 
   res.send({ serverCapacity });
-}
+};
